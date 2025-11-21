@@ -1,2 +1,12 @@
 .venv/
-model/
+model/saved_model/model.safetensors
+model/saved_model/checkpoint-100/optimizer.pt
+model/saved_model/checkpoint-100/model.safetensors
+model/saved_model/checkpoint-200/optimizer.pt
+model/saved_model/checkpoint-200/model.safetensors
+model/saved_model/checkpoint-300/optimizer.pt
+model/saved_model/checkpoint-300/model.safetensors
+model/saved_model/checkpoint-400/optimizer.pt
+model/saved_model/checkpoint-400/model.safetensors
+model/saved_model/checkpoint-500/optimizer.pt
+model/saved_model/checkpoint-500/model.safetensors
