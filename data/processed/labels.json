@@ -1,0 +1,19 @@
+[
+  "O",
+"B-AUTHOR",
+"I-AUTHOR",
+"B-TITLE",
+"I-TITLE",
+"B-JOURNAL",
+"I-JOURNAL",
+"B-YEAR",
+"I-YEAR",
+"B-VOLUME",
+"I-VOLUME",
+"B-ISSUE",
+"I-ISSUE",
+"B-PAGES",
+"I-PAGES",
+"B-DOI",
+"I-DOI"
+]
